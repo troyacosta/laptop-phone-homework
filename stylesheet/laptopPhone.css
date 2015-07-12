@@ -1,11 +1,11 @@
 @media screen and (min-width: 993px) {
-    .leftBox {
+    .bigBox {
         width: 500px;
         margin-left: 166px;
         margin-bottom: 40px;
         display: inline-block;
     }
-    .rightBox {
+    .quadBox {
         width: 500px;
         display: inline-block;
         margin-left: 40px;
