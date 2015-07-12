@@ -1,7 +1,7 @@
-body {
-    padding-left: 10%;
-}
 @media screen and (min-width: 993px) {
+    body {
+        padding-left: 10%;
+    }
     .bigBox {
         width: 500px;
         margin-left: 166px;
@@ -26,6 +26,4 @@ body {
     }
 }
 
-@media screen and (max-width: 768px) {
-
-}
+@media screen and (max-width: 768px) {}
