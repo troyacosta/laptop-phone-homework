@@ -11,7 +11,16 @@
         margin-left: 40px;
         margin-bottom: 40px;
     }
-    
+    .topLeftBox {
+        padding-bottom: 36px;
+        padding-right: 36px;
+    }
+    .topRightBox {
+        padding-bottom: 36px;
+    }
+    .bottomLeftBox {
+        padding-right: 36px;
+    }
 }
 
 @media screen and (max-width: 768px) {
