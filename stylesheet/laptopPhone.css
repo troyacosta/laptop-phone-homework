@@ -1,42 +1,45 @@
 @media screen and (min-width: 993px) {
     body {
-        padding-left: 10%;
+        padding-left: 12%;
     }
     .bigBox {
-        width: 500px;
-        margin-left: 166px;
-        margin-bottom: 40px;
+        width: 43%;
+        margin-right: 3%;
+        margin-bottom: 3%;
         display: inline-block;
     }
+    .bigPic {
+        width: 100%;
+    }
     .quadBox {
-        width: 500px;
+        width: 43%;
         display: inline-block;
-        margin-left: 40px;
-        margin-bottom: 40px;
+        margin-right: 3%;
+        margin-bottom: 3%;
     }
     .topLeftBox {
         padding-bottom: 36px;
         padding-right: 36px;
+        width: 46%
     }
     .topRightBox {
         padding-bottom: 36px;
+        width: 46%;
     }
     .bottomLeftBox {
         padding-right: 36px;
+        width: 46%;
     }
-
+    .bottomRightBox: {
+        width: 46%;
+    }
     .phone {
-    
-    display: none;
+        display: none;
     }
 }
 
 @media screen and (max-width: 768px) {
-
     .laptop {
-    
-    display: none;
-    
+        display: none;
     }
-
 }
