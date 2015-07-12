@@ -1,3 +1,6 @@
+body {
+    padding-left: 10%;
+}
 @media screen and (min-width: 993px) {
     .bigBox {
         width: 500px;
@@ -24,18 +27,5 @@
 }
 
 @media screen and (max-width: 768px) {
-
-.leftBox {
-        width: 500px;
-        margin-left: 166px;
-        margin-bottom: 40px;
-}    }
-    .rightBox {
-        width: 500px;
-        margin-left: 40px;
-        margin-bottom: 40px;
-    }
-
-
 
 }
