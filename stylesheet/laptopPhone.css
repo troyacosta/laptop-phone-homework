@@ -33,19 +33,13 @@
     .bottomRightBox: {
         width: 46%;
     }
-
     .phone {
-    
-    display: none;
+        display: none;
     }
 }
 
 @media screen and (max-width: 768px) {
-
     .laptop {
-    
-    display: none;
-    
+        display: none;
     }
-
 }
