@@ -42,4 +42,36 @@
     .laptop {
         display: none;
     }
+
+    .bigBox {
+    padding: 10px;
+    
+    }
+
+    .bigBox img {
+    
+    background-color: yellow;
+    }
+
+    .sechsbox img {
+    
+    padding: 10px;
+    
+    }
+    
+    .doublebox img {
+    padding: 10px;
+    
+    
+    }
+    .connect {
+     padding: 10px;
+    
+    }
+    
+    .connect img {
+    
+    background-color: yellow;
+    
+    }
 }
